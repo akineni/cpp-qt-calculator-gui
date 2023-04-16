@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="icon">resources/img/icon.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file alias="digital-7">resources/font/digital-7.ttf</file>
+        <file alias="digital-7i">resources/font/digital-7 (italic).ttf</file>
+        <file alias="digital-7-m">resources/font/digital-7 (mono).ttf</file>
+        <file alias="digital-7i-m">resources/font/digital-7 (mono italic).ttf</file>
+    </qresource>
+</RCC>
