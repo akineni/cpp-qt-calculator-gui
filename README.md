@@ -1,2 +1,2 @@
 # cpp-qt-calculator-gui
-A GUI calculator app using C++ Qt
+A standard GUI calculator app using C++ Qt
